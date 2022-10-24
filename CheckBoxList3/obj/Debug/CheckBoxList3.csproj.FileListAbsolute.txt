@@ -1,0 +1,14 @@
+C:\Users\u413\source\repos\CheckBoxList3\bin\Debug\CheckBoxList3.exe.config
+C:\Users\u413\source\repos\CheckBoxList3\bin\Debug\CheckBoxList3.exe
+C:\Users\u413\source\repos\CheckBoxList3\bin\Debug\CheckBoxList3.pdb
+C:\Users\u413\source\repos\CheckBoxList3\obj\Debug\MainWindow.g.cs
+C:\Users\u413\source\repos\CheckBoxList3\obj\Debug\App.g.cs
+C:\Users\u413\source\repos\CheckBoxList3\obj\Debug\CheckBoxList3_MarkupCompile.cache
+C:\Users\u413\source\repos\CheckBoxList3\obj\Debug\CheckBoxList3_MarkupCompile.lref
+C:\Users\u413\source\repos\CheckBoxList3\obj\Debug\MainWindow.baml
+C:\Users\u413\source\repos\CheckBoxList3\obj\Debug\CheckBoxList3.g.resources
+C:\Users\u413\source\repos\CheckBoxList3\obj\Debug\CheckBoxList3.Properties.Resources.resources
+C:\Users\u413\source\repos\CheckBoxList3\obj\Debug\CheckBoxList3.csproj.GenerateResource.cache
+C:\Users\u413\source\repos\CheckBoxList3\obj\Debug\CheckBoxList3.csproj.CoreCompileInputs.cache
+C:\Users\u413\source\repos\CheckBoxList3\obj\Debug\CheckBoxList3.exe
+C:\Users\u413\source\repos\CheckBoxList3\obj\Debug\CheckBoxList3.pdb
